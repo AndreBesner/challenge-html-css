@@ -3,8 +3,10 @@ challenge-html-css
 
 ## Description
 
-This simple webpage was built to showcase the various online brand services Horiseo, the company, offers
+This simple webpage was built to showcase the various online brand services Horiseo, the company, offers. 
+
 Recent contributions to the project were to ensure code readability, and accessability format compatiability.
+
 This webpage will allow users to understand services offered by Horiseo
 
 
@@ -72,10 +74,4 @@ SOFTWARE.
 
 
 Thanks for reading the readme, here is a cat as a reward!
-
-   |\---/|
-   | ,_, |
-    \_`_/-..----.
- ___/ `   ' ,""+ \  sk
-(__...'   __\    |`.___.';
-  (_,...'(_,.`__)/'.....+
+😺
