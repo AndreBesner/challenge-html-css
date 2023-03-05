@@ -1,4 +1,5 @@
 * {
+    /* sets all content to be a border box with no padding or margin */
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -39,10 +40,12 @@ body {
 }
 
 .header div ul {
+    /* sets list style type to none */
     list-style-type: none;
 }
 
 .header div ul li {
+    /* sets display of header to inline blcok with a left margin of 25px */
     display: inline-block;
     margin-left: 25px;
 }
@@ -68,15 +71,18 @@ body {
 }
 
 a {
+    /* sets colour of a class to white */
     color: #ffffff;
     text-decoration: none;
 }
 
 p {
+    /* sets font size of b class to 16px */
     font-size: 16px;
 }
 
 .search-engine-optimization img {
+    /* sets main content image height at 200px */
     max-height: 200px;
 }
 
@@ -95,6 +101,7 @@ p {
 }
 
 .search-engine-optimization h2 {
+    /* sets search engine opti header bottom margin at 20px and font size at 36px */
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -114,10 +121,12 @@ p {
 }
 
 .online-reputation-management img {
+    /* sets online rep management image max height to 200px */
     max-height: 200px;
 }
 
 .online-reputation-management h2 {
+    /* sets online rep management header size to 20px and font size to 36px */
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -137,10 +146,12 @@ p {
 }
 
 .social-media-marketing img {
+    /* sets social media marketing image max height to 200px */
     max-height: 200px;
 }
 
 .social-media-marketing h2 {
+    /* sets social media marketing header bottom margin to 20px and font size to 36 pixels */
     margin-bottom: 20px;
     font-size: 36px;
 }

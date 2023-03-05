@@ -1,40 +1,3 @@
-# challenge-html-css
-challenge-html-css
-
-## Description
-
-This simple webpage was built to showcase the various online brand services Horiseo, the company, offers. 
-
-Recent contributions to the project were to ensure code readability, and accessability format compatiability.
-
-This webpage will allow users to understand services offered by Horiseo
-
-
-## Installation
-
-No additional installations required
-Confirmed compatible on recent builds on Google Chrome and FireFox.
-
-## Usage
-
-No additional usage, just navigate to the webpage. Hotlinks at top in header will zap you to the section quick
-
-Here is what live site should look like
-
-![image of working site](./assets/images/Site%20ScreenShot.PNG)
-
-
-## Credits
-
-Andre Besner - Bootcamp Student
-
-Daler Singh - Bootcamp Instructor
-
-Made with ❤️️ by Horiseon
-© 2019 Horiseon Social Solution Services, Inc.
-
-## License
-
 MIT License
 
 Copyright (c) 2023 Andre Besner
@@ -56,26 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Thanks for reading the readme, here is a cat as a reward!
-😺
