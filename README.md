@@ -19,6 +19,10 @@ Confirmed compatible on recent builds on Google Chrome and FireFox.
 
 No additional usage, just navigate to the webpage. Hotlinks at top in header will zap you to the section quick
 
+Here is what live site should look like
+
+![image of working site](./assets/images/Site%20ScreenShot.PNG)
+
 
 ## Credits
 
