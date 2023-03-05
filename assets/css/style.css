@@ -5,10 +5,12 @@
 }
 
 body {
+    /* Sets background colour to this off green  */
     background-color: #d9dcd6;
 }
 
 .header {
+    /* set padding on header to 20px, sets font family and selects font colour and background all for header */
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -16,15 +18,19 @@ body {
 }
 
 .header h1 {
+    /* sets header display to inline block and font size at 48px */
     display: inline-block;
     font-size: 48px;
 }
 
 .header h1 .seo {
+    /* adds flair to middle of Horiseo logo in header */
     color: #d9dcd6;
 }
 
 .header div {
+    /* sets padding in header to 15px and right margin to 20px
+    sets font family and size at 20px */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -42,6 +48,8 @@ body {
 }
 
 .hero {
+    /* css selectors for image of business people standing around a table
+    height 800px width 100% of page */
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -51,6 +59,9 @@ body {
 }
 
 .content {
+    /* sets content of page to take up 75% width
+    inlline block display
+    left margin at 20px */
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -70,6 +81,11 @@ p {
 }
 
 .search-engine-optimization {
+    /* sets photo for main content
+    bottom margin 20px
+    pads 50px
+    height 300px
+    sets font family background colour and font colour to nice white on blue */
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -84,6 +100,11 @@ p {
 }
 
 .online-reputation-management {
+    /* sets photo for main content
+    bottom margin 20px
+    pads 50px
+    height 300px
+    sets font family background colour and font colour to nice white on blue */
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -102,6 +123,11 @@ p {
 }
 
 .social-media-marketing {
+    /* sets photo for main content
+    bottom margin 20px
+    pads 50px
+    height 300px
+    sets font family background colour and font colour to nice white on blue */
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -130,6 +156,10 @@ p {
 }
 
 .benefits {
+    /* sets right margin at 20px
+    pads it at 20px
+    sets width and heigh at 20 and 100%
+    sets font family and font background colour */
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -141,54 +171,64 @@ p {
 }
 
 .benefit-lead {
+        /* sets bottom margin at 32px and sets colour to white */
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 .benefit-brand {
+        /* sets bottom margin at 32px and sets colour to white */
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 .benefit-cost {
+    /* sets bottom margin at 32px and sets colour to white */
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 .benefit-lead h3 {
+        /* sets bottom margin at 10px and centers text */
     margin-bottom: 10px;
     text-align: center;
 }
 
 .benefit-brand h3 {
+        /* sets bottom margin at 10px and centers text */
     margin-bottom: 10px;
     text-align: center;
 }
 
 .benefit-cost h3 {
+    /* sets bottom margin at 10px and centers text */
     margin-bottom: 10px;
     text-align: center;
 }
 
 .benefit-lead img {
+    /* starts new line for image, sets margin at 10px auto and max width at 150px */
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 .benefit-brand img {
+    /* starts new line for image, sets margin at 10px auto and max width at 150px */
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 .benefit-cost img {
+    /* starts new line for image, sets margin at 10px auto and max width at 150px */
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 .footer {
+    /* sets footer padding at 30px, sets font family and centers text */
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -196,5 +236,6 @@ p {
 }
 
 .footer h2 {
+    /* sets footer font size to 20px */
     font-size: 20px;
 }
