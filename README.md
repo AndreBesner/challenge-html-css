@@ -13,11 +13,18 @@ This webpage will allow users to understand services offered by Horiseo
 ## Installation
 
 No additional installations required
+
 Confirmed compatible on recent builds on Google Chrome and FireFox.
+
+Navigate to https://andrebesner.github.io/challenge-html-css/ in order to use
 
 ## Usage
 
 No additional usage, just navigate to the webpage. Hotlinks at top in header will zap you to the section quick
+
+Website hosted live using GitHub Pages at:
+
+https://andrebesner.github.io/challenge-html-css/
 
 Here is what live site should look like
 
