@@ -37,6 +37,13 @@ Andre Besner - Bootcamp Student
 
 Daler Singh - Bootcamp Instructor
 
+Adam Nyx - Bootcamp Instructor
+
+This project was deployed with the help of files from uoft's repository as follows:
+https://utoronto.bootcampcontent.com/utoronto-bootcamp/UTOR-VIRT-FSF-PT-02-2023-U-LOLC
+
+Additional Credits:
+
 Made with ❤️️ by Horiseon
 © 2019 Horiseon Social Solution Services, Inc.
 
